@@ -3,7 +3,7 @@
 namespace MyWikiPRO\Component\Collection;
 
 /**
- * Base collection
+ * Base collection, array wrapper
  *
  * Class AbstractCollection
  * @package MyWikiPRO\Component\Collection
