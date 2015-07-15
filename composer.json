@@ -1,0 +1,20 @@
+{
+  "name": "mywikipro/abstract-collection",
+  "description": "Abstract collection class, array wrapper",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Yastrebov",
+      "email": "serg.yastrebov@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.3.19"
+  },
+  "autoload": {
+    "psr-0": {
+      "MyWikiPRO": "src"
+    }
+  }
+}
